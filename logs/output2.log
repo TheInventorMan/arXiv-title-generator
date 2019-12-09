@@ -1,0 +1,445 @@
+
+
+corpus length: 785441
+total chars: 74
+nb sequences: 261801
+Vectorization...
+Build model...
+Epoch 1/60
+261801/261801 [==============================] - 135s 514us/step - loss: 0.9733
+
+----- Generating text after Epoch: 0
+----- diversity: 0.2
+----- Generating with seed: "estimation of detection efficiency with "
+estimation of detection efficiency with an intersections and control and and distributed systems
+a control of a control of state estimation 
+----- diversity: 0.5
+----- Generating with seed: "estimation of detection efficiency with "
+estimation of detection efficiency with and event-triggered control for systems
+control synthesis of sensor systems with an intersections
+hi
+----- diversity: 1.0
+----- Generating with seed: "estimation of detection efficiency with "
+estimation of detection efficiency with end ionond unifier
+indided-value for ann hyperbolic modelers with random detection and delay stabili
+----- diversity: 1.2
+----- Generating with seed: "estimation of detection efficiency with "
+estimation of detection efficiency with accelerative control for networked multi-per-symbirance
+bias collision event-teleck ocleu wience
+eme
+Saved model to disk
+Epoch 2/60
+261801/261801 [==============================] - 131s 501us/step - loss: 0.9649
+
+----- Generating text after Epoch: 1
+----- diversity: 0.2
+----- Generating with seed: "del identification using a regularized b"
+del identification using a regularized based stochastic systems
+stochastic control of distributed model predictive control of switching and 
+----- diversity: 0.5
+----- Generating with seed: "del identification using a regularized b"
+del identification using a regularized based systems
+complexity and and control of control of unmulator systems
+cooperative control of the e
+----- diversity: 1.0
+----- Generating with seed: "del identification using a regularized b"
+del identification using a regularized backstharine perspective
+discretimiation of subfilied dual express consensus using a iitigog-inard ho
+----- diversity: 1.2
+----- Generating with seed: "del identification using a regularized b"
+del identification using a regularized blangs
+cascudansing nives theory for aparasologure figher
+disvergen and-seerator scenare communicatif
+Saved model to disk
+Epoch 3/60
+261801/261801 [==============================] - 131s 502us/step - loss: 0.9630
+
+----- Generating text after Epoch: 2
+----- diversity: 0.2
+----- Generating with seed: "ocal temporal tasks and relative-distanc"
+ocal temporal tasks and relative-distance control for systems with state estimation of stability analysis of linear systems with a state est
+----- diversity: 0.5
+----- Generating with seed: "ocal temporal tasks and relative-distanc"
+ocal temporal tasks and relative-distance for switching stabilization of highenges
+a space structure expect of frieds using state estimation
+----- diversity: 1.0
+----- Generating with seed: "ocal temporal tasks and relative-distanc"
+ocal temporal tasks and relative-distance
+embedding for multi-agent equation systems
+dpepting planning from timestable small-variation procl
+----- diversity: 1.2
+----- Generating with seed: "ocal temporal tasks and relative-distanc"
+ocal temporal tasks and relative-distance
+for, networks and froimulation-based energy regrap-loc-so-neadaration kaf coly network robust esti
+Saved model to disk
+Epoch 4/60
+261801/261801 [==============================] - 132s 503us/step - loss: 0.9605
+
+----- Generating text after Epoch: 3
+----- diversity: 0.2
+----- Generating with seed: "ressor performance to the equivalent per"
+ressor performance to the equivalent performance and applications
+distributed approach to networks for multiple control of a supervisory con
+----- diversity: 0.5
+----- Generating with seed: "ressor performance to the equivalent per"
+ressor performance to the equivalent performance constraints of autonomous distributed control problems
+a speed an implementation for probab
+----- diversity: 1.0
+----- Generating with seed: "ressor performance to the equivalent per"
+ressor performance to the equivalent perspective
+weight alternation methods and farne rates
+match scheduling carrcculity of coss inexact onl
+----- diversity: 1.2
+----- Generating with seed: "ressor performance to the equivalent per"
+ressor performance to the equivalent perspective using interplas, and ly
+reinforcement les
+
+C:\Anaconda3\Lib\site-packages\ipykernel_launcher.py:66: RuntimeWarning: divide by zero encountered in log
+
+enss approximation mechanissidigred networks for s
+Saved model to disk
+Epoch 5/60
+261801/261801 [==============================] - 131s 501us/step - loss: 0.9588
+
+----- Generating text after Epoch: 4
+----- diversity: 0.2
+----- Generating with seed: "tigating wormhole attacks on networked c"
+tigating wormhole attacks on networked control for control systems with application to state of state stabilization of state of multi-agent 
+----- diversity: 0.5
+----- Generating with seed: "tigating wormhole attacks on networked c"
+tigating wormhole attacks on networked control and stability analysis
+stability of limits of statistical control systems with energy control
+----- diversity: 1.0
+----- Generating with seed: "tigating wormhole attacks on networked c"
+tigating wormhole attacks on networked control system with quasi-on static graphs
+uncertain network loads for owhordsbablility with optimal 
+----- diversity: 1.2
+----- Generating with seed: "tigating wormhole attacks on networked c"
+tigating wormhole attacks on networked classes
+waveler storage mplandopy-based strabiling for device
+mark statimnal fuzzy stochastic clattic
+Saved model to disk
+Epoch 6/60
+261801/261801 [==============================] - 132s 503us/step - loss: 0.9624
+
+----- Generating text after Epoch: 5
+----- diversity: 0.2
+----- Generating with seed: "an integrated localization-navigation sc"
+an integrated localization-navigation scheme for controllers for system identification of stochastic systems with stability analysis and sta
+----- diversity: 0.5
+----- Generating with seed: "an integrated localization-navigation sc"
+an integrated localization-navigation scheme for non-stability of power flow in a group constraints
+a new dynamical systems and control syst
+----- diversity: 1.0
+----- Generating with seed: "an integrated localization-navigation sc"
+an integrated localization-navigation scheme of time-constraints
+do storage proble linear free dissimations
+-key feedback designtroncapkity 
+----- diversity: 1.2
+----- Generating with seed: "an integrated localization-navigation sc"
+an integrated localization-navigation schemes
+connected point hricbed dynamical gime in robotic support vehicle virtial
+evaluation of sever 
+Saved model to disk
+Epoch 7/60
+261801/261801 [==============================] - 132s 503us/step - loss: 0.9680
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: "for optimal pmu placement for state esti"
+for optimal pmu placement for state estimation of control systems
+a composition and control of a control of stochastic systems
+a control of 
+----- diversity: 0.5
+----- Generating with seed: "for optimal pmu placement for state esti"
+for optimal pmu placement for state estimation of power systems with application to partial equiptives
+robust adaptive control of the state 
+----- diversity: 1.0
+----- Generating with seed: "for optimal pmu placement for state esti"
+for optimal pmu placement for state estimation approach
+reduced flock control by markov datatitud placstacks
+constraint-in regerate constrai
+----- diversity: 1.2
+----- Generating with seed: "for optimal pmu placement for state esti"
+for optimal pmu placement for state estimation via ca observer
+commitn feedback dolones
+model chited opinion fremimance chenning
+dynamic per
+Saved model to disk
+Epoch 8/60
+261801/261801 [==============================] - 132s 505us/step - loss: 0.9784
+
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: " switching topologies
+learning self-trig"
+ switching topologies
+learning self-triggered control of a secure stability of nonlinear systems with regulation of distributed systems
+stab
+----- diversity: 0.5
+----- Generating with seed: " switching topologies
+learning self-trig"
+ switching topologies
+learning self-triggered control for smart grids in chass networks
+a noter systems and distributed model predictive con
+----- diversity: 1.0
+----- Generating with seed: " switching topologies
+learning self-trig"
+ switching topologies
+learning self-triggered nonlinear systems with flocv aeg decentralized microgrid
+learning submodences for stability un
+----- diversity: 1.2
+----- Generating with seed: " switching topologies
+learning self-trig"
+ switching topologies
+learning self-triggered controller markets in machuule networks
+numars equationt control of mutf-prealaticity control 
+Saved model to disk
+Epoch 9/60
+261801/261801 [==============================] - 132s 505us/step - loss: 0.9773s - loss: 
+
+----- Generating text after Epoch: 8
+----- diversity: 0.2
+----- Generating with seed: "modular systems
+comparison of ofdm and s"
+modular systems
+comparison of ofdm and state estimation of stochastic control of state estimation for a sensor processes
+decentralized contr
+----- diversity: 0.5
+----- Generating with seed: "modular systems
+comparison of ofdm and s"
+modular systems
+comparison of ofdm and stability of distributed systems
+a control systems with semi-and transmission for a controller for an
+----- diversity: 1.0
+----- Generating with seed: "modular systems
+comparison of ofdm and s"
+modular systems
+comparison of ofdm and stochastic ag/usilient systems bov
+risk pressure flo sensor networks
+incremental field to electric ve
+----- diversity: 1.2
+----- Generating with seed: "modular systems
+comparison of ofdm and s"
+modular systems
+comparison of ofdm and space platforms in mowing networks
+automatres to dual average direction-signal optimal control bases 
+Saved model to disk
+Epoch 10/60
+261801/261801 [==============================] - 132s 504us/step - loss: 0.9815
+
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: "vel perspective
+guarding a subspace in h"
+vel perspective
+guarding a subspace in higher-fluxibation of the matrix control of distributed state estimation of systems with a computatio
+----- diversity: 0.5
+----- Generating with seed: "vel perspective
+guarding a subspace in h"
+vel perspective
+guarding a subspace in homogeneous to distributed systems with admiltibles
+a detection for power flow of dynamic based on th
+----- diversity: 1.0
+----- Generating with seed: "vel perspective
+guarding a subspace in h"
+vel perspective
+guarding a subspace in hierarchic sensor based on rial opct theek carssed purpect-v}al for robust, computating enturbiable k
+----- diversity: 1.2
+----- Generating with seed: "vel perspective
+guarding a subspace in h"
+vel perspective
+guarding a subspace in highry microneg dataser 
+stabilising and tal bur diagrap p tests with crowr systems with aheating and
+Saved model to disk
+Epoch 11/60
+261801/261801 [==============================] - 131s 502us/step - loss: 0.9869
+
+----- Generating text after Epoch: 10
+----- diversity: 0.2
+----- Generating with seed: "o random transmission delays and packet "
+o random transmission delays and packet power systems
+a nonlinear systems for power system for multi-agent systems
+control of a complexity o
+----- diversity: 0.5
+----- Generating with seed: "o random transmission delays and packet "
+o random transmission delays and packet loging for stochastic provision and optimization for control for dynamic differential games
+a regula
+----- diversity: 1.0
+----- Generating with seed: "o random transmission delays and packet "
+o random transmission delays and packet mode
+unificity of transqnation in pomdp for artaring analysis of coupling
+matchable approximation in
+----- diversity: 1.2
+----- Generating with seed: "o random transmission delays and packet "
+o random transmission delays and packet mocostingix functions
+synchronization with time-stabilization of distributed cost ofs
+homoteme occup
+Saved model to disk
+Epoch 12/60
+261801/261801 [==============================] - 132s 503us/step - loss: 1.0083
+
+----- Generating text after Epoch: 11
+----- diversity: 0.2
+----- Generating with seed: "ng
+decision making for rapid information"
+ng
+decision making for rapid information of energy controllability of stochastic systems with sparse state estimation of state-time modeling
+----- diversity: 0.5
+----- Generating with seed: "ng
+decision making for rapid information"
+ng
+
+decision making for rapid informations with/d/d: dyn//////////t////////i////////////////////////}/33/}_gn/quinge/s$op/one dual networks u
+----- diversity: 1.0
+----- Generating with seed: "ng
+decision making for rapid information"
+ng
+decision making for rapid informations
+solaricy of flatching reliable an oscillators
+an ad robotics of backward sparsity dynamics method 
+----- diversity: 1.2
+----- Generating with seed: "ng
+decision making for rapid information"
+ng
+decision making for rapid informations
+deteiggn graphs with/d/a/s/ons
+ra
+silunt homomont im)zatis for energy costsess via efficient emumi
+Saved model to disk
+Epoch 13/60
+261801/261801 [==============================] - 131s 502us/step - loss: 1.0690
+
+----- Generating text after Epoch: 12
+----- diversity: 0.2
+----- Generating with seed: ": multi-layer dynamics and top-down recr"
+: multi-layer dynamics and top-down recronistic systems with beck-order model predictiv0ure control of secure systems
+stability of control o
+----- diversity: 0.5
+----- Generating with seed: ": multi-layer dynamics and top-down recr"
+: multi-layer dynamics and top-down recrondic signal0h adaptiv0-theory for stability analysis
+a integral statistics of self-decentralized re
+----- diversity: 1.0
+----- Generating with seed: ": multi-layer dynamics and top-down recr"
+: multi-layer dynamics and top-down recrision and locustice of power plant
+a detecting0 sensitive systems for polyn0alized searm with networ
+----- diversity: 1.2
+----- Generating with seed: ": multi-layer dynamics and top-down recr"
+: multi-layer dynamics and top-down recro-optimbise control
+an optimal0q aggregate optical synthe imagical spaciations
+definition necessarin
+Saved model to disk
+Epoch 14/60
+261801/261801 [==============================] - 132s 505us/step - loss: 1.1258
+
+----- Generating text after Epoch: 13
+----- diversity: 0.2
+----- Generating with seed: "ystems
+stochastic optimal control as non"
+ystems
+stochastic optimal control as non-model predictiv0ur systems with a multi-agent systems with a state estimation of solver systems wit
+----- diversity: 0.5
+----- Generating with seed: "ystems
+stochastic optimal control as non"
+ystems
+stochastic optimal control as nonlinear systems
+resilient control of distributed stability of the energy constraints
+stochastic contr
+----- diversity: 1.0
+----- Generating with seed: "ystems
+stochastic optimal control as non"
+ystems
+stochastic optimal control as non-under and cable data routet-based distributed accriv0qujges in a compressive comparison
+exp cension
+----- diversity: 1.2
+----- Generating with seed: "ystems
+stochastic optimal control as non"
+ystems
+stochastic optimal control as nonlinear steadwing timed provision structure-managed rewelkity:00v0000000000000 system stochastic cont
+Saved model to disk
+Epoch 15/60
+261801/261801 [==============================] - 131s 502us/step - loss: 1.1238
+
+----- Generating text after Epoch: 14
+----- diversity: 0.2
+----- Generating with seed: "indsight opf
+asynchronous subgradient-pu"
+indsight opf
+asynchronous subgradient-pusternes of nonlinear systems with application to multi-agent systems
+a model predictiv0ur stabilizat
+----- diversity: 0.5
+----- Generating with seed: "indsight opf
+asynchronous subgradient-pu"
+indsight opf
+asynchronous subgradient-purrovoctory adaptiv0x modeling of nonlinear systems
+a multi-agent systems in b0quc design of chance-c
+----- diversity: 1.0
+----- Generating with seed: "indsight opf
+asynchronous subgradient-pu"
+indsight opf
+asynchronous subgradient-pusk000-0-00 ne0 r00u0000 0a00
+0-centra0 provid0ic-search_mm
+communication and consensus and communica
+----- diversity: 1.2
+----- Generating with seed: "indsight opf
+asynchronous subgradient-pu"
+indsight opf
+asynchronous subgradient-pusterne-presence on g-jutt fad hammenataress
+asymmetrizemosup sta a nanumorvotable via deep learning 
+Saved model to disk
+Epoch 16/60
+261801/261801 [==============================] - 132s 506us/step - loss: 1.0864
+
+----- Generating text after Epoch: 15
+----- diversity: 0.2
+----- Generating with seed: "lant
+post-disturbance dynamic frequency "
+lant
+post-disturbance dynamic frequency constrained optimal0q state estimation of a convex field0qucket systems
+stability and frequency cont
+----- diversity: 0.5
+----- Generating with seed: "lant
+post-disturbance dynamic frequency "
+lant
+post-disturbance dynamic frequency control
+stability and state estimation of linear systems
+multi-agent distributed model predictive co
+----- diversity: 1.0
+----- Generating with seed: "lant
+post-disturbance dynamic frequency "
+lant
+post-disturbance dynamic frequency control
+stochastic decomportation application to mechanical systems
+signal s
+0-o,cing optimal0-on th
+----- diversity: 1.2
+----- Generating with seed: "lant
+post-disturbance dynamic frequency "
+lant
+post-disturbance dynamic frequency control of oution processes
+thennalchys for estimating obcerlers of chance constrained outputo-studp
+Saved model to disk
+Epoch 17/60
+261801/261801 [==============================] - 131s 502us/step - loss: 1.0832
+
+----- Generating text after Epoch: 16
+----- diversity: 0.2
+----- Generating with seed: "imized energy utilization in small and l"
+imized energy utilization in small and linear power systems with applications
+modeling and control of a control of a structure state estimat
+----- diversity: 0.5
+----- Generating with seed: "imized energy utilization in small and l"
+imized energy utilization in small and least minam for the continuous multiple control systems
+analy0h and analysis of a class of the stabil
+----- diversity: 1.0
+----- Generating with seed: "imized energy utilization in small and l"
+imized energy utilization in small and leight topologies
+optimal/studying fusion and optimal0-integ/operatovolysment entropy0quatation-gradi
+----- diversity: 1.2
+----- Generating with seed: "imized energy utilization in small and l"
+imized energy utilization in small and linear scheme sgtqual framework
+local controlled approached by data
+issiing flatnouy ev conharcing ov
+Saved model to disk
+Epoch 18/60
+  4096/261801 [..............................] - ETA: 2:10 - loss: 1.1448

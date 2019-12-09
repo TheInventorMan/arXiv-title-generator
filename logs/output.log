@@ -1,0 +1,338 @@
+corpus length: 785441
+total chars: 74
+nb sequences: 261801
+Vectorization...
+Build model...
+Epoch 1/60
+261760/261801 [============================>.] - ETA: 0s - loss: 1.5629
+----- Generating text after Epoch: 0
+----- diversity: 0.2
+----- Generating with seed: "ergence analysis using the edge laplacia"
+ergence analysis using the edge laplacial systems
+on the reachion frequency of the the structure pricing structure control of the distribute
+----- diversity: 0.5
+----- Generating with seed: "ergence analysis using the edge laplacia"
+ergence analysis using the edge laplacial linear systems
+a striggual grids and intervia control of structures of a partiic models
+resilient 
+----- diversity: 1.0
+----- Generating with seed: "ergence analysis using the edge laplacia"
+ergence analysis using the edge laplacian -outtitimement and gaugrance in secrion and idverveedys of attate-state in self-based with ptrenic
+----- diversity: 1.2
+----- Generating with seed: "ergence analysis using the edge laplacia"
+ergence analysis using the edge laplacia systems for structures with fheepeathmun leterian trifficgation drive nonlinear compa triss-pervoly
+Saved model to disk
+261801/261801 [==============================] - 247s 945us/step - loss: 1.5629
+Epoch 2/60
+261760/261801 [============================>.] - ETA: 0s - loss: 1.1819
+----- Generating text after Epoch: 1
+----- diversity: 0.2
+----- Generating with seed: " reinforcement learning on the industria"
+ reinforcement learning on the industrial systems
+a control for control for reactive systems
+design of a reactive control of distributed sys
+----- diversity: 0.5
+----- Generating with seed: " reinforcement learning on the industria"
+ reinforcement learning on the industrial distributed systems with control for distributed power systems using energy an systems
+a reactive 
+----- diversity: 1.0
+----- Generating with seed: " reinforcement learning on the industria"
+ reinforcement learning on the industria and innlice air feedback scelic in bisurnal negral processer
+informaling for auptoria infariming an
+----- diversity: 1.2
+----- Generating with seed: " reinforcement learning on the industria"
+ reinforcement learning on the industrial uhert intheral activian flochion control for controller systems
+edesability of tree
+an actiat acti
+Saved model to disk
+261801/261801 [==============================] - 220s 841us/step - loss: 1.1819
+Epoch 3/60
+261760/261801 [============================>.] - ETA: 0s - loss: 1.1109
+----- Generating text after Epoch: 2
+----- diversity: 0.2
+----- Generating with seed: "d learning in gaussian process state-spa"
+d learning in gaussian process state-space network of an analysis of a control of a controller for a sensor network controller and systems
+a
+----- diversity: 0.5
+----- Generating with seed: "d learning in gaussian process state-spa"
+d learning in gaussian process state-space controller systems with a multiplexing interpection and simulation for systems
+analysis of a bate
+----- diversity: 1.0
+----- Generating with seed: "d learning in gaussian process state-spa"
+d learning in gaussian process state-space banawaries of device scale tenman ands
+a multiazed lanned filtrighe interproctionification in cla
+----- diversity: 1.2
+----- Generating with seed: "d learning in gaussian process state-spa"
+d learning in gaussian process state-space planning
+reliability, pproto-constrained nonstwo -stating transied spassion and a llay for omagen
+Saved model to disk
+261801/261801 [==============================] - 230s 877us/step - loss: 1.1109
+Epoch 4/60
+261760/261801 [============================>.] - ETA: 0s - loss: 1.0742
+----- Generating text after Epoch: 3
+----- diversity: 0.2
+----- Generating with seed: "ment learning for event-triggered contro"
+ment learning for event-triggered control of stochast control of stochastic stochastic systems
+a state estimation of a control of stochastic
+----- diversity: 0.5
+----- Generating with seed: "ment learning for event-triggered contro"
+ment learning for event-triggered control for control systems with simple safe invariant transmission and decentralized control of learning 
+----- diversity: 1.0
+----- Generating with seed: "ment learning for event-triggered contro"
+ment learning for event-triggered control
+a lareousive attreedumbed biunds on f tres
+pic coullitysce hybrid system over of the adaptive cont
+----- diversity: 1.2
+----- Generating with seed: "ment learning for event-triggered contro"
+ment learning for event-triggered control cont globale adaptive bechvec-elatriation using pierler ssisoling in level system high-generation
+
+Saved model to disk
+261801/261801 [==============================] - 309s 1ms/step - loss: 1.0742
+Epoch 5/60
+261760/261801 [============================>.] - ETA: 0s - loss: 1.0476
+----- Generating text after Epoch: 4
+----- diversity: 0.2
+----- Generating with seed: "ck-box modeling and compensation of burs"
+ck-box modeling and compensation of burss in smart grid
+stability of smart grids with an optimal control of stochastic systems
+stability of 
+----- diversity: 0.5
+----- Generating with seed: "ck-box modeling and compensation of burs"
+ck-box modeling and compensation of burss of spectrum of stochastic systems
+case for convex and frequency robot free stability of synchroniz
+----- diversity: 1.0
+----- Generating with seed: "ck-box modeling and compensation of burs"
+ck-box modeling and compensation of burser constraint and weithmallity in paraduct low-reducture model design
+sensor fast-of schedul can can
+----- diversity: 1.2
+----- Generating with seed: "ck-box modeling and compensation of burs"
+ck-box modeling and compensation of burs-lay graphs
+energy manageic networked ine-arrire-suptrme adaptive the socuaring hopaking fput
+an est
+Saved model to disk
+261801/261801 [==============================] - 312s 1ms/step - loss: 1.0477
+Epoch 6/60
+261760/261801 [============================>.] - ETA: 0s - loss: 1.0327
+----- Generating text after Epoch: 5
+----- diversity: 0.2
+----- Generating with seed: " $h_\infty$ coherent-classical estimatio"
+ $h_\infty$ coherent-classical estimation of stability of a consensus of the control of a computing design of stability of a state estimatio
+----- diversity: 0.5
+----- Generating with seed: " $h_\infty$ coherent-classical estimatio"
+ $h_\infty$ coherent-classical estimation in a state estimation
+slocity-based control of a constanning in a stability of sum of stochastic s
+----- diversity: 1.0
+----- Generating with seed: " $h_\infty$ coherent-classical estimatio"
+ $h_\infty$ coherent-classical estimation and mcuring frequency control of in lcomes
+data-driven and guing for en-bulsion planning
+time-base
+----- diversity: 1.2
+----- Generating with seed: " $h_\infty$ coherent-classical estimatio"
+ $h_\infty$ coherent-classical estimation
+quaie olgout controllers for a stobac sdp and inertial verification fromoguar systems
+design-bound
+Saved model to disk
+261801/261801 [==============================] - 336s 1ms/step - loss: 1.0328
+Epoch 7/60
+261760/261801 [============================>.] - ETA: 0s - loss: 1.0189
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: "rcement learning in continuous time and "
+rcement learning in continuous time and intersection and state estimation of energy stability of state estimation of a state estimation of a
+----- diversity: 0.5
+----- Generating with seed: "rcement learning in continuous time and "
+rcement learning in continuous time and control of energy management
+nonlinear systems with model design of multi-time method
+a interpolatio
+----- diversity: 1.0
+----- Generating with seed: "rcement learning in continuous time and "
+rcement learning in continuous time and results
+a graphh in optimal control for pethed synthesis in partial dynamic for sweind networes
+mode
+----- diversity: 1.2
+----- Generating with seed: "rcement learning in continuous time and "
+rcement learning in continuous time and chunal hybrid achascecb: feedbior to eeclymop mensmonter
+on minismarsuate robotrated control eefamin
+Saved model to disk
+261801/261801 [==============================] - 402s 2ms/step - loss: 1.0189
+Epoch 8/60
+
+
+261760/261801 [============================>.] - ETA: 0s - loss: 1.0067
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: "or dynamics
+a cross entropy based stocha"
+or dynamics
+a cross entropy based stochastic systems
+a structured stability of a framework for stability of a state estimation of control of
+----- diversity: 0.5
+----- Generating with seed: "or dynamics
+a cross entropy based stocha"
+or dynamics
+a cross entropy based stochastic design for a stask strotions
+smart grids with timed power systems
+stability of controllable con
+----- diversity: 1.0
+----- Generating with seed: "or dynamics
+a cross entropy based stocha"
+or dynamics
+a cross entropy based stochastic quadrotor functional model orinn and decentralized multi-state observes
+improved decentralized 
+----- diversity: 1.2
+----- Generating with seed: "or dynamics
+a cross entropy based stocha"
+or dynamics
+a cross entropy based stochastic synthesfqcations
+a-graphinge manofoctoty specifications with valued based automathic unifqued n
+Saved model to disk
+261801/261801 [==============================] - 216s 824us/step - loss: 1.0068
+Epoch 9/60
+261760/261801 [============================>.] - ETA: 0s - loss: 0.9953
+----- Generating text after Epoch: 8
+----- diversity: 0.2
+----- Generating with seed: " directed generation (cdg) problem
+reinf"
+ directed generation (cdg) problem
+reinforcement l
+
+
+c:\users\mneha\anaconda3\envs\tf_gpu\lib\site-packages\ipykernel_launcher.py:65: RuntimeWarning: divide by zero encountered in log
+
+
+earning for control of the bounds for stabilization of stabilization of stochastic systems
+----- diversity: 0.5
+----- Generating with seed: " directed generation (cdg) problem
+reinf"
+ directed generation (cdg) problem
+reinforcement learning region for distribution systems with prediction of parametric detecting with const
+----- diversity: 1.0
+----- Generating with seed: " directed generation (cdg) problem
+reinf"
+ directed generation (cdg) problem
+reinforcement learning positiuation of greench in credistic systems: annal on nonlinear tracking expansio
+----- diversity: 1.2
+----- Generating with seed: " directed generation (cdg) problem
+reinf"
+ directed generation (cdg) problem
+reinforcement reinforcement and systems in smart groupsable casidiling: a carriidy
+real-tife entrople exi
+Saved model to disk
+261801/261801 [==============================] - 210s 800us/step - loss: 0.9953
+Epoch 10/60
+261760/261801 [============================>.] - ETA: 0s - loss: 0.9887
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: "er denial-of-service
+the unknown input o"
+er denial-of-service
+the unknown input optimization and stochastic control
+stabilization of self-triggered control of autonomous vehicles
+se
+----- diversity: 0.5
+----- Generating with seed: "er denial-of-service
+the unknown input o"
+er denial-of-service
+the unknown input optimal sensors for security vial uncertain nonlinear systems and stochastic control for linear syste
+----- diversity: 1.0
+----- Generating with seed: "er denial-of-service
+the unknown input o"
+er denial-of-service
+the unknown input op carbos convedsive type services for unmanificale guid-equires
+nonlinear neigh motion-wrannel fuzzy
+----- diversity: 1.2
+----- Generating with seed: "er denial-of-service
+the unknown input o"
+er denial-of-service
+the unknown input ocluder-digital synchronous automated algorithmality ndele control with like-valuare multiwind comple
+Saved model to disk
+261801/261801 [==============================] - 209s 800us/step - loss: 0.9887
+Epoch 11/60
+261760/261801 [============================>.] - ETA: 0s - loss: 0.9812
+----- Generating text after Epoch: 10
+----- diversity: 0.2
+----- Generating with seed: "onary currents
+exploiting particle swarm"
+onary currents
+exploiting particle swarm systems for distributed systems
+a control for a control of a position control of control of systems
+----- diversity: 0.5
+----- Generating with seed: "onary currents
+exploiting particle swarm"
+onary currents
+exploiting particle swarm systems with the processes
+stability of non-linear systems for systems
+control for attacks for posi
+----- diversity: 1.0
+----- Generating with seed: "onary currents
+exploiting particle swarm"
+onary currents
+exploiting particle swarms measurement learning
+generation-forent-maraged linear quadratic eseratic
+order observers using man
+----- diversity: 1.2
+----- Generating with seed: "onary currents
+exploiting particle swarm"
+onary currents
+exploiting particle swarm smassing the robust ders
+ttbunut polynomial likearized feedvory-based invisers with multi-control
+i
+Saved model to disk
+261801/261801 [==============================] - 195s 745us/step - loss: 0.9812
+Epoch 12/60
+261760/261801 [============================>.] - ETA: 0s - loss: 0.9747
+----- Generating text after Epoch: 11
+----- diversity: 0.2
+----- Generating with seed: "ower systems using semidefinite programm"
+ower systems using semidefinite programming
+a control of a complexity and model predictive control for model predictive control of a control
+----- diversity: 0.5
+----- Generating with seed: "ower systems using semidefinite programm"
+ower systems using semidefinite programming
+distributed adaptive multi-agent systems
+a sett and nonlinear control of secure online models
+a 
+----- diversity: 1.0
+----- Generating with seed: "ower systems using semidefinite programm"
+ower systems using semidefinite programming
+posity filter-y-trading for demand reinforcement learning: a plat liwd costly to usgrid matlay-b
+----- diversity: 1.2
+----- Generating with seed: "ower systems using semidefinite programm"
+ower systems using semidefinite programming
+distributed recursive wholiagezability and identification-driven technological inverse probabili
+Saved model to disk
+261801/261801 [==============================] - 346s 1ms/step - loss: 0.9748
+Epoch 13/60
+261760/261801 [============================>.] - ETA: 0s - loss: 0.9719
+----- Generating text after Epoch: 12
+----- diversity: 0.2
+----- Generating with seed: "el parameters
+improved transients in mul"
+el parameters
+improved transients in multi-agent systems
+on the presence of distribution network systems with application to systems
+distrib
+----- diversity: 0.5
+----- Generating with seed: "el parameters
+improved transients in mul"
+el parameters
+improved transients in multi-agent systems
+the ecolay principle network for a probabilistic method for energy storage systems
+
+----- diversity: 1.0
+----- Generating with seed: "el parameters
+improved transients in mul"
+el parameters
+improved transients in multi-aiconaring with linear mcch-bate systems: a path framework for dispaice
+power system state estima
+----- diversity: 1.2
+----- Generating with seed: "el parameters
+improved transients in mul"
+el parameters
+improved transients in multeunt dataners in stimility
+modular modulation using performance carming filters vymal mode t, ga
+ef
+Saved model to disk
+261801/261801 [==============================] - 226s 863us/step - loss: 0.9719
+Epoch 14/60
+ 52864/261801 [=====>........................] - ETA: 2:31 - loss: 0.9516
