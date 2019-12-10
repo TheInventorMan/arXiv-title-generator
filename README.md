@@ -31,7 +31,7 @@ Looks like we can have distributed MPC with a random controller. Would definitel
   
 <p>&nbsp;</p>
   
-Depending on the seed text, which was randomly chose from the input text corpus, the results would vary. Sometimes, the network would completely derp out for some reason:
+Depending on the seed text, which was randomly chosen from the input text corpus, the results would vary. Sometimes the network would completely derp out for some reason:
 
 ```"rapid informations with/d/d: dyn//////////t////////i////////////////////////}/33/}_gn/quinge/s$op/one dual networks"```
 
