@@ -1,6 +1,8 @@
 # arXiv Title Generator
 
-After reading a bunch of controls theory papers, I began to realize how fancy-sounding the titles were. Thus, a parody was born. This project is a neural network that has been trained on 10,000 titles in the systems science category on arXiv. It's a simple character-level bidirectional LSTM network to generate random controls theory titles. The titles were scraped using the arXiv API, which allows for a call every 3 seconds. The code in scraper.py repeats this process for the ~10,000 titles in the cs.SY category. Next, the data is cleaned and split into tokens, after which it is sent to the network. train.py contains both the data preprocessing code and Keras model training code. The model code is adapted from the Keras LSTM example code, with a few modifications, such as using bidirectional LSTM. The model architecture is as follows:
+After reading a bunch of controls theory papers, I began to realize how fancy-sounding the titles were. Thus, a parody was born. This project is a neural network that has been trained on 10,000 titles in the systems science category on arXiv. It's a simple character-level bidirectional LSTM network to generate random controls theory titles.  
+
+The titles were scraped using the arXiv API, which allows for a call every 3 seconds. The code in scraper.py repeats this process for the ~10,000 titles in the cs.SY category. Next, the data is cleaned and split into tokens, after which it is sent to the network. train.py contains both the data preprocessing code and Keras model training code. The model code is adapted from the Keras LSTM example code, with a few modifications, such as using bidirectional LSTM. The model architecture is as follows:
 
 ```
 _________________________________________________________________
