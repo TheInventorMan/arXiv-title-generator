@@ -18,12 +18,14 @@ _________________________________________________________________
 ```
 
 The vocabulary size is 74, and this includes alphanumeric characters, as well as other symbols. The output layer is then passed into a character map to translate softmax outputs into a character.  
+
+### Results
   
 <p>&nbsp;</p>
   
 The output began to make sense after about the 14th epoch, where I got results that might pass as an actual paper title to the untrained eye:
 
-"stochastic control of distributed model predictive control of switching"
+```"stochastic control of distributed model predictive control of switching"```
 
 Looks like we can have distributed MPC with a random controller. Would definitely like to find out how on earth that would work.  
   
@@ -31,7 +33,7 @@ Looks like we can have distributed MPC with a random controller. Would definitel
   
 Depending on the seed text, which was randomly chose from the input text corpus, the results would vary. Sometimes, the network would completely derp out for some reason:
 
-"rapid informations with/d/d: dyn//////////t////////i////////////////////////}/33/}_gn/quinge/s$op/one dual networks"
+```"rapid informations with/d/d: dyn//////////t////////i////////////////////////}/33/}_gn/quinge/s$op/one dual networks"```
 
 Not quite sure what happened there.  
   
@@ -39,6 +41,17 @@ Not quite sure what happened there.
   
 This one sounds like absolutely groundbreaking research:
 
-"a new dynamical system"
+```"a new dynamical system"```
 
 Yes, folks, a brand new one.
+
+<p>&nbsp;</p>
+
+More results can be found in samples.txt
+
+<p>&nbsp;</p>
+
+References:
+- arXiv API: https://arxiv.org/help/api/user-manual
+- Keras LSTM example: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py 
+
