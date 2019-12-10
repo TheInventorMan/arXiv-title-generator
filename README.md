@@ -17,11 +17,11 @@ _________________________________________________________________
 
 ```
 
-The vocabulary size is 74, and this includes alphanumeric characters, as well as other symbols. The output layer is then passed into a character map to translate softmax outputs into a character.  
+The vocabulary size is 74, and this includes alphanumeric characters and other symbols. The output layer is then passed into a character map to translate softmax outputs into a character.  
 
-### Results
-  
 <p>&nbsp;</p>
+
+#### Results:
   
 The output began to make sense after about the 14th epoch, where I got results that might pass as an actual paper title to the untrained eye:
 
@@ -51,7 +51,7 @@ More results can be found in samples.txt
 
 <p>&nbsp;</p>
 
-References:
+#### References:
 - arXiv API: https://arxiv.org/help/api/user-manual
 - Keras LSTM example: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py 
 
