@@ -1,2 +1,38 @@
-# arXiv-title-generator
-A simple character-level bidirectional LSTM network to generate academic paper titles. Network has been trained on 10,000 titles in the systems science category on arXiv.
+# arXiv Title Generator
+
+After reading a bunch of controls theory papers, I began to realize how fancy-sounding the titles were. Thus, a parody was born. This project is a neural network that has been trained on 10,000 titles in the systems science category on arXiv. It's a simple character-level bidirectional LSTM network to generate random controls theory titles. The titles were scraped using the arXiv API, which allows for a call every 3 seconds. The code in scraper.py repeats this process for the ~10,000 titles in the cs.SY category. Next, the data is cleaned and split into tokens, after which it is sent to the network. train.py contains both the data preprocessing code and Keras model training code. The model code is adapted from the Keras LSTM example code, with a few modifications, such as using bidirectional LSTM. The model architecture is as follows:
+
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+bidirectional_3 (Bidirection (None, 256)               207872    
+_________________________________________________________________
+dense_3 (Dense)              (None, 74)                19018     
+=================================================================
+Total params: 226,890
+Trainable params: 226,890
+Non-trainable params: 0
+_________________________________________________________________
+
+The vocabulary size is 74, and this includes alphanumeric characters, as well as other symbols. The output layer is then passed into a character map to translate softmax outputs into a character.
+
+
+The output began to make sense after about the 14th epoch, where I got results that might pass as an actual paper title to the untrained eye:
+
+"stochastic control of distributed model predictive control of switching"
+
+Looks like we can have distributed MPC with a random controller. Would definitely like to find out how on earth that would work.
+
+
+Depending on the seed text, which was randomly chose from the input text corpus, the results would vary. Sometimes, the network would completely derp out for some reason:
+
+"rapid informations with/d/d: dyn//////////t////////i////////////////////////}/33/}_gn/quinge/s$op/one dual networks"
+
+Not quite sure what happened there.
+
+
+This one sounds like absolutely groundbreaking research:
+
+"a new dynamical system"
+
+Yes, folks, a brand new one.
