@@ -19,6 +19,7 @@ _________________________________________________________________
 
 The vocabulary size is 74, and this includes alphanumeric characters, as well as other symbols. The output layer is then passed into a character map to translate softmax outputs into a character.  
   
+<p>&nbsp;</p>
   
 The output began to make sense after about the 14th epoch, where I got results that might pass as an actual paper title to the untrained eye:
 
@@ -26,6 +27,7 @@ The output began to make sense after about the 14th epoch, where I got results t
 
 Looks like we can have distributed MPC with a random controller. Would definitely like to find out how on earth that would work.  
   
+<p>&nbsp;</p>
   
 Depending on the seed text, which was randomly chose from the input text corpus, the results would vary. Sometimes, the network would completely derp out for some reason:
 
@@ -33,6 +35,7 @@ Depending on the seed text, which was randomly chose from the input text corpus,
 
 Not quite sure what happened there.  
   
+<p>&nbsp;</p>
   
 This one sounds like absolutely groundbreaking research:
 
