@@ -60,7 +60,19 @@ More results can be found in samples.txt
 
 The GPT-2 network is currently the most powerful deep language model. The network has been trained on 40GB of internet text in order to model the English language, after which it can be tuned to match the _style_ of another dataset.  
 
-GPT-2 has 124 million parameters, as opposed to the ~227k parameters of the original network. The network was trained on the same dataset and the results are surprisingly convincing, as the network has some contextual knowledge of the words in the titles.  
+GPT-2 has 124 million parameters, as opposed to the ~227k parameters of the original network. The network was trained on the same dataset and the results are surprisingly convincing, as the network has some contextual knowledge of the words in the titles. For example:
+
+``` "Optimal module placement in large connected networks with undesired behaviors" ```
+
+Sounds like a perfectly plausible research project ¯\_(ツ)_/¯. The following just blew my mind:
+
+``` "Integrated Deep Reinforcement Learning with Bayesian Information Flow" ```
+
+It somehow knew that RL and Bayes' Theorem are related. Wow.
+
+<p>&nbsp;</p>
+
+It is important to note that GPT-2 is a word-level language model whereas the original is a character-level model. This means that this network predicts each subsequent word given past words, while the original network does the same but on a character-by-character basis.    
 
 However, while grammatically correct and coherent, context deduction may sometimes fail:
 
