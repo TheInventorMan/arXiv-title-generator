@@ -52,7 +52,7 @@ Yes, folks, a brand new one.
 
 <p>&nbsp;</p>
 
-More results can be found in [samples.txt]
+More results can be found in [samples.txt](samples.txt)
 
 <p>&nbsp;</p>
 
@@ -80,7 +80,7 @@ However, while grammatically correct and coherent, context deduction may sometim
 
 ```"The Electric Power Grid as a Supergrid to Control Smashing Cars Over Roads" ```
 
-More results can be found in [gpt2_samples.txt]
+More results can be found in [gpt2_samples.txt](gpt2_samples.txt)
 
 <p>&nbsp;</p>
 
