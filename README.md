@@ -64,7 +64,7 @@ GPT-2 has 124 million parameters, as opposed to the ~227k parameters of the orig
 
 ``` "Optimal module placement in large connected networks with undesired behaviors" ```
 
-Sounds like a perfectly plausible research project ¯\_(ツ)_/¯. The following just blew my mind:
+Sounds like a perfectly plausible research project ¯\\_(ツ)_/¯. The following just blew my mind:
 
 ``` "Integrated Deep Reinforcement Learning with Bayesian Information Flow" ```
 
