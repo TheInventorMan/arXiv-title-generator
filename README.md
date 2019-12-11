@@ -52,7 +52,7 @@ Yes, folks, a brand new one.
 
 <p>&nbsp;</p>
 
-More results can be found in samples.txt
+More results can be found in [samples.txt]
 
 <p>&nbsp;</p>
 
@@ -64,7 +64,9 @@ GPT-2 has 124 million parameters, as opposed to the ~227k parameters of the orig
 
 ``` "Optimal module placement in large connected networks with undesired behaviors" ```
 
-Sounds like a perfectly plausible research project ¯\\_(ツ)_/¯. The following just blew my mind:
+Sounds like a perfectly plausible research project ¯\\_(ツ)_/¯.  
+
+The following just blew my mind:
 
 ``` "Integrated Deep Reinforcement Learning with Bayesian Information Flow" ```
 
@@ -78,11 +80,12 @@ However, while grammatically correct and coherent, context deduction may sometim
 
 ```"The Electric Power Grid as a Supergrid to Control Smashing Cars Over Roads" ```
 
-More results can be found in gpt2_samples.txt
+More results can be found in [gpt2_samples.txt]
 
 <p>&nbsp;</p>
 
 #### References:
 - arXiv API: https://arxiv.org/help/api/user-manual
 - Keras LSTM example: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py 
+- GPT-2 by OpenAI: https://openai.com/blog/better-language-models/
 
