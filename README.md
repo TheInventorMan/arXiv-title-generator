@@ -21,9 +21,12 @@ _________________________________________________________________
 
 The vocabulary size is 74, and this includes alphanumeric characters and other symbols. The output layer is then passed into a character map to translate softmax outputs into a character.  
 
+### Update:
+I also decided to tune the GPT-2 network with the same dataset and the results are _disconcertingly_ realistic. Results are after that of the original network.
+
 <p>&nbsp;</p>
 
-#### Results:
+#### Results (Original LSTM Network):
   
 The output began to make sense after about the 14th epoch, where I got results that might pass as an actual paper title to the untrained eye:
 
@@ -50,6 +53,20 @@ Yes, folks, a brand new one.
 <p>&nbsp;</p>
 
 More results can be found in samples.txt
+
+<p>&nbsp;</p>
+
+#### Results (GPT-2 Network):
+
+The GPT-2 network is currently the most powerful deep language model. The network has been trained on 40GB of internet text in order to model the English language, after which it can be tuned to match the _style_ of another dataset.  
+
+GPT-2 has 124 million parameters, as opposed to the ~227k parameters of the original network. The network was trained on the same dataset and the results are surprisingly convincing, as the network has some contextual knowledge of the words in the titles.  
+
+However, while grammatically correct and coherent, context deduction may sometimes fail:
+
+```"The Electric Power Grid as a Supergrid to Control Smashing Cars Over Roads" ```
+
+More results can be found in gpt2_samples.txt
 
 <p>&nbsp;</p>
 

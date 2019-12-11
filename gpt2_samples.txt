@@ -1,0 +1,127 @@
+Network Optimization for Efficient Operation of Levitated Vehicle Platooning Units <|endoftext|>
+Distributed Distributed Estimation: An Algorithm for State Fraction Control (Extended Version) <|endoftext|>
+A Low-Cost, Droop-free-Aircraft Platform for Transportation on Aircraft Models <|endoftext|>
+Approximating optimal control strategies for robot manipulators with light weight non-identical economic units <|endoftext|>
+Joint optimization of large-scale systems with cyber-physical agents for cyber-physical infrastructure <|endoftext|>
+Estimating the Impact of Wind Generation in Heavy-Tailed Robots: A Convergence Approach <|endoftext|>
+Model-free control state estimation via conformational verification: implications for estimation by stochastic systems <|endoftext|>
+Cooperative Tasking for Multiple Agents at Sensing Temporal Logic Specifications <|endoftext|>
+A Direct Platooning Strategy for Target-Driven Robots Using Different Coordination Models <|endoftext|>
+Supervisor Obvulation Decentralized Adaptive Control with Confidence-Constrained Resource Sharing <|endoftext|>
+Reduced-order systems: their energy efficiency, and breakaway processes <|endoftext|>
+Optimal module placement in large connected networks with undesired behaviors <|endoftext|>
+On Damaging Inverters in Networked Sensor Networks <|endoftext|>
+A fixed-cost method for the estimation of photonic deviations using consensus-based dynamical systems <|endoftext|>
+Knowledge Transfer: Refinement and Guaranteed Schedule for the Development and Testing of Online Dynamics and Mass Reliability Engineering Systems <|endoftext|>
+Flight Control in a HetP2 Infinite Infinite Horizon Event <|endoftext|>
+Distributed estimation strategies for linear continuous-time games with non-monotonic flight states <|endoftext|>
+Online Disturbance Rejection for the Proving Ground for Petri nets <|endoftext|>
+A Multi-Phase Model of an IFR Stealth Algorithm Based on Muscle Balance and Laser Barrier Plating <|endoftext|>
+Identifying Cooperative Water Control under Adversary Environment-Inspired Actions Based on Automatic Plant Filtering and Calibration Techniques <|endoftext|>
+Cyber-Physical Systems Adoption for Transportation Systems in the Industrial IoT Network <|endoftext|>
+Characterization of optimal control behaviors of systems under unusual state transitions <|endoftext|>
+Networked Leader Selection for Means-Allocations in Distributed Power Control Systems <|endoftext|>
+Hierarchical Boundedness for Actions with Cost <|endoftext|>
+A General Digital Euclidean Model for Nonlinear Disturbance Observer Based on a Class of Three-Phase Coupled Oscillators <|endoftext|>
+Computational Reliability of Digital Cancellation Methods in Multi-hop Control Systems with Elastic Rate Limitations <|endoftext|>
+Distributed State Estimation under Sensing Delays and Scheduling Exact than Evolutionary Basis <|endoftext|>
+Security Safe Design of Multi-agent Systems Using Open-Form Deterministic Learning <|endoftext|>
+Ensemble Predictive Software Principle for Quaternion Orientation Estimation <|endoftext|>
+Computational Torqued Detection Using Unit Commitment Hierarchical Bayes's Method <|endoftext|>
+Circulating Collision Avoidance in Complex Convolutional Networks via State Feedback <|endoftext|>
+Renewal and Stability Analysis in a Radical Renewable Energy Integration Facility using Microgrid Data from EVS Models <|endoftext|>
+Fuzzy State Estimation of Smart Grid with Random Input Delay <|endoftext|>
+On the Stability of Randomly-Tied Networks <|endoftext|>
+Discrete Random Methods for Inference and Disturbance Estimation of Interconnected Systems <|endoftext|>
+Convergence of the Optimal Policy Opinion by Filtering <|endoftext|>
+Synthesis of Tool-less Bayesian Model Based Motion Planning in Residential Parking Spaces <|endoftext|>
+Optimisation of Remote Assistance Constellation for GPS-Assisted Robotic Coordination <|endoftext|>
+Minimum-Energy Blocks Considering Temporal Logic <|endoftext|>
+On the Optimal Entropy of Dynamic Quadratic Operators <|endoftext|>
+Distributed estimation of robust stable ergodicity in large-scale systems <|endoftext|>
+A modified FAR model for vehicular approach geometry optimization for sum-of-squares optimal control problems <|endoftext|>
+Voltage-Dependent Value Function Optimization Techniques with Necessary and Sufficient Information <|endoftext|>
+Passivity based synthesis for discrete dynamical systems: a bridge between passivity and regularization <|endoftext|>
+Bifurcation Theory Part II: Impedance Part III: Risk-Grasping Integrity Value and Controllability <|endoftext|>
+Multi-armed Bandit Kalman Filters <|endoftext|>
+Feedback Linearization of Independent Walking Agents with Self-Collection <|endoftext|>
+A STATCOM algorithm of its best right-of-formation (FR) property guided by synchronous computations <|endoftext|>
+A Differential Passivity based Agents Subjective Networks <|endoftext|>
+Efficient Autonomous Navigation with A Stabilizing Maneuver <|endoftext|>
+Asynchronous Approximate Control for Nonlinear Systems Under Demand Response <|endoftext|>
+Exponential scaling for synthesis of singular value operators <|endoftext|>
+Safe Architecture for Stability Assessment of Nonlinear Generation Systems with Changing State of Generators <|endoftext|>
+Maximizing the Convergence Rate of Continuously Announced PDEs with AC Power Tradeoffs <|endoftext|>
+Management logic design for cooperative multi-agent systems at the communication and control level <|endoftext|>
+The Construction of Online Adaptive Torpedo Controllers via Bearing Graph Computation <|endoftext|>
+Preventing Temporal Resource Allocation from the Value of Grid-Equivalent Power Flow: A Case Study <|endoftext|>
+Identification of Counterexample to Non-Onion Confirmation Minimization Problems <|endoftext|>
+Exact Optimal Power Flow in Distribution Grids controlled by Liquid Oxygen <|endoftext|>
+Cypheral Exploration of Control Adaptation in Markov Decision Processes <|endoftext|>
+On Attack-Sensitive Vector Observability <|endoftext|>
+Semi-explicit Restriction Order Reduction of Discrete-Time Linear Systems <|endoftext|>
+Iterative Belief with Performance Guarantees <|endoftext|>
+A Decentralized Algorithm for Covariance-Based Consensus Optimization <|endoftext|>
+Fast Evidence-based Probabilistic Control for State Estimation In Uncertain Disturbances with Charging and Charging Down Time Limitations <|endoftext|>
+Safe Distributed Multi-sensor Energy Harvesting Algorithm <|endoftext|>
+Capacity-guaranteed Cost-Shaping in Difference Surface Disturbance Solving <|endoftext|>
+Integrated Deep Reinforcement Learning with Bayesian Information Flow <|endoftext|>
+Skew production and distribution restrictions for grid-connected vehicle relay stations <|endoftext|>
+A Solutions Project for Genetic Programming: Adaptive Control Solution for Hybrid Systems <|endoftext|>
+Co-distributed population control of modified rolling population: A novel multi-armed rolling population control method <|endoftext|>
+The Unknown Dependence Model for Grid Penetration Risk Management in Multi-constrained Cyber-Physical Systems <|endoftext|>
+Energy Storage based Guard against Chance Averaging Attacks on Power System and Data via Distributed Distributed Multi-Stage Algorithm <|endoftext|>
+Aggregation of Hidden Controllers from Multi-Agent Software via Arbitration <|endoftext|>
+A Direct Estimation of the Energy Emission Characterization via Sensor Data <|endoftext|>
+Pseudo-linear programming for cooperative multiscale pollution control in regional areas <|endoftext|>
+A Priority Queueing and Desired Priority Constrained Network <|endoftext|>
+Supervisor Obfuscation in Control Networks: Non Frictionless Passivity and Supervisory Relaxation Specifications <|endoftext|>
+A Passive Adversarial Game Framework for Generating and Relaying Directed Polar-Pull Data for Rigid Body Controllers <|endoftext|>
+Enhanced Finite-Time Boundary Changes in Degenerative Power Markets <|endoftext|>
+Bearing-Based Control for Boundless Feedback Coaxial Systems <|endoftext|>
+Implicit and Explicit GR(H) algorithms for implicit control source localization of nonlinear systems <|endoftext|>
+Online Provision of Electrical Job Feedback Limbs for Low Voltage Consumption in Microgrids <|endoftext|>
+The Cyber Defense Environment Under Miscommunication and Reversibility of Autonomous Aerial Vehicle <|endoftext|>
+Abstract Knowledge Transfer in Social Networks: Implications for Maintaining Confidence Levels Along the EigenDPR Model <|endoftext|>
+A State-Space Model Estimation and Response Theory Approach to the Decision Tree Problem <|endoftext|>
+A Lyapunov-Like Model for Dynamic Space-Based Coordination of Interplanetary Manned Solvers <|endoftext|>
+Translational and stability invariant game design in cyberphysical systems <|endoftext|>
+A Neural Network Based Resilient Markov Function Estimation Method for Economically Optimal Design of Demand Response Agencies <|endoftext|>
+On the Stability Of Synchronized Positive Systems Over Nonsmooth Channels <|endoftext|>
+Resource Flow over an Enzymatic Oscillator Network Through a Synchronizing Radiation Oscillator <|endoftext|>
+Detection-averse bounds for nonlinear models of complex systems <|endoftext|>
+PMU Norm Drift Estimation Using the Feasibility Principle <|endoftext|>
+Near-Optimal Intuitive Fuzzy Game Solvers on Impulse Analytical Radar <|endoftext|>
+Computing Markov Rationales in Programming Languages <|endoftext|>
+Competition and Economic Convenience in Multi-Class Transportation Networks <|endoftext|>
+From Local to State Estimation: Temporal Spectral Tiers <|endoftext|>
+Distributed -- Coordinate to Cumulator Problems -- for Discrete Event Systems with a Nash Equilibrium under Neural Control <|endoftext|>
+Fading-Resolution Control for Markov Jump Linear Systems with Losses <|endoftext|>
+Asymptotics of the Sparsity of Average Consensus <|endoftext|>
+Cooperative Collision Recovery with Multiple Targets <|endoftext|>
+Asynchronous Global Time-Delay-Based Control and Event-Based State Prediction: A Back-Approximation Approach <|endoftext|>
+Reinforcement Learning for FDI-C Problem on Steam Rigid Aircraft <|endoftext|>
+Optimal unobstructed tracking with satellite communication <|endoftext|>
+Rolling Truss: Continuity-of-Matters <|endoftext|>
+The Electric Power Grid as a Supergrid to Control Smashing Cars Over Roads <|endoftext|>
+Adaptive Abstractions for Local Environmental Applications <|endoftext|>
+Correlation analysis of linear and related graphs within discrete-time models <|endoftext|>
+Time varying interdependency of wind generation on frequency <|endoftext|>
+Convex Coverage Functions with Applications to Demonstrations <|endoftext|>
+Efficient Iteration over Consensus with Adversarial Topologies <|endoftext|>
+Networked Resource Allocation for Distributed Beyond DER Impacts <|endoftext|>
+Probabilistically Efficient Task Pursuit with Periodic Time Delay <|endoftext|>
+Learning a Protective Effect from Severe Wind Infestations <|endoftext|>
+2018 IEEE 14-AGM Specifications for Sustained Observability Co-Simulation <|endoftext|>
+Implicit Coding for UILabelle <|endoftext|>
+Game-Theoretic Storage Sizing Policies for Microgrid-based Cyber Skills Development <|endoftext|>
+Spectrum L2: An Information-based Dataset for Grid Spectroscopy <|endoftext|>
+Strong Approximation for Distributed LTIc Estimators of Distribution System Stabilizability <|endoftext|>
+Deep-Sea Deep Learning for Control Software and Industrial Automation --- Part I: Deep Neural Network Generation and Fusion Algorithm <|endoftext|>
+Evaluating Jacobian state spaces with deep observed robust stability <|endoftext|>
+Note on experimental design of NMPC network <|endoftext|>
+Decentralized Volterra model reduction <|endoftext|>
+State Space Specific Optimization of Distributed Networks over Robust Uncertain Agents <|endoftext|>
+Resource Allocation ForestRobotBuilding: Track Animate Robots Algorithms for Urban Transportation Setup <|endoftext|>
+A two character Markov decision process model for risk prediction and real-world implementation <|endoftext|>
+Experimental Investigation of the Impact of The Kalman Filter in Complex Online Games <|endoftext|>
