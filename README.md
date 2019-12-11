@@ -22,7 +22,7 @@ _________________________________________________________________
 The vocabulary size is 74, and this includes alphanumeric characters and other symbols. The output layer is then passed into a character map to translate softmax outputs into a character.  
 
 ### Update:
-I also decided to tune the GPT-2 network with the same dataset and the results are _disconcertingly_ realistic. Results are after that of the original network.
+I also decided to tune the GPT-2 network with the same dataset and the results are _disconcertingly_ realistic. Results are [here](#Results (GPT-2 Network):).
 
 <p>&nbsp;</p>
 
