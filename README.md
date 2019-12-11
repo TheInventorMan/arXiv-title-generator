@@ -32,7 +32,7 @@ The output began to make sense after about the 14th epoch, where I got results t
 
 ```"stochastic control of distributed model predictive control of switching"```
 
-Looks like we can have distributed MPC with a random controller. Would definitely like to find out how on earth that would work.  
+Looks like we can have distributed MPC with a random controller. Would definitely like to find out how that would work.  
   
 <p>&nbsp;</p>
   
@@ -58,9 +58,9 @@ More results can be found in [samples.txt](samples.txt)
 
 #### Results (GPT-2 Network):
 
-The GPT-2 network is currently the most powerful deep language model. The network has been trained on 40GB of internet text in order to model the English language, after which it can be tuned to match the _style_ of another dataset.  
+The GPT-2 network is currently the most powerful deep language model at the time of writing. The network has been trained on 40GB of internet text in order to model the English language, after which it can be tuned to match the _style_ of another dataset.  
 
-GPT-2 has 124 million parameters, as opposed to the ~227k parameters of the original network. The network was trained on the same dataset and the results are surprisingly convincing, as the network has some contextual knowledge of the words in the titles. For example:
+The version of GPT-2 I'm using has 124 million parameters, as opposed to the ~227k parameters of the original network. The network was trained on the same dataset and the results are surprisingly convincing, since the network has some vague contextual knowledge of each word. For example:
 
 ``` "Optimal module placement in large connected networks with undesired behaviors" ```
 
